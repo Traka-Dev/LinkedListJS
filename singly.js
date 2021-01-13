@@ -1,5 +1,4 @@
 // 0 --> 1 -- > 2 -- > 3-- > 4-- > 5 -- > 6 --> null
-0;
 // let singlyLinkedList = {
 //   head: {
 //     value: 1,
@@ -102,5 +101,3 @@ class MySinglyLinkedList {
     }
 
 }
-
-let myLinkedList = new MySinglyLinkedList(1);
